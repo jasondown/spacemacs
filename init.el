@@ -28,8 +28,10 @@ values."
                       auto-complete-tab-key-behavior 'cycle
                       :disabled-for org)
      ;; better-defaults
+     csharp
      elixir
      emacs-lisp
+     fsharp
      git
      github
      html
